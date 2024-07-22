@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ngelarsio.github.io/sitemap
+Sitemap: https://ngelarsio.github.io/app/sitemap
+Sitemap: https://ngelarsio.github.io/assets/sitemap
+Sitemap: https://ngelarsio.github.io/css/sitemap
+Sitemap: https://ngelarsio.github.io/includes/sitemap
+Sitemap: https://ngelarsio.github.io/item/sitemap
+Sitemap: https://ngelarsio.github.io/src/sitemap
